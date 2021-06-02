@@ -1,0 +1,19 @@
+
+.hr{
+  text-align: center;
+}
+.br{
+  margin: 0 auto;
+  width: 200px;
+  border-radius: 4px;
+  background-image: linear-gradient(to right, rgb(247, 245, 245), rgba(185, 185, 185, 0.329));
+}
+.hrs{
+  margin: 0 auto;
+  font-size: 10px;
+  width: 100px;
+  border-radius: 4px;
+  background-image: linear-gradient(to right, rgb(247, 245, 245), rgba(185, 185, 185, 0.329));
+}
+
+
